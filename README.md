@@ -1,6 +1,6 @@
 ### Hi there 👋
-### I'm a software developer experienced in Full stack web developement. I am looking for any oppurtunitues why I can put my expertise to use.
-### You can reach me out via mail or linkedin. 
+## I'm a software developer experienced in Full stack web developement. I am looking for any oppurtunitues why I can put my expertise to use.
+## You can reach me out @ saurav2raut@gmail.com or [linkedin](https://www.linkedin.com/in/sauravraut/). 
 
 <!--
 **Sauravraut/Sauravraut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
